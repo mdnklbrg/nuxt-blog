@@ -1,4 +1,4 @@
-# nuxt-section-3
+# nuxt-blog
 
 > My geometric Nuxt.js project
 
